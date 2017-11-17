@@ -1,0 +1,42 @@
+---
+title: "Capstone Project - Does Speed Matter in E-Commerce"
+author : "Pek79"
+date : "NOV 16,2017"
+output: html_document
+---
+
+### Project Details
+
+## Context
+
+QVC provides its customers with a variety of product offerings around the globe. The largest market for QVC is currently the US.  In the US alone, QVC ships millions of packages each year to enrich its customers' lives. The future of fulfilling customer orders and meeting or exceeding their expectations is always at the forefront of QVC's decisions.
+
+### Objective
+
+Analyze QVC's customer geography, distribution network, and product mix, purchase patterns and develop a visualization that contains useful information for QVC to use to understand what the relationship between speed of product/package delivery and customer loyalty is.
+
+1) Does the current distribution network maximize customer penetration (spend)?  If not, what should QVC do to    increase customer penetration with the current distribution network?
+
+2) Are there specific products or product categories that should be located in specific distribution centers?
+
+3) Do customers that receive their product sooner purchase more than customers with longer delivery times?
+
+### Data
+
+This project will use the anonymized Data available [here](https://www.dropbox.com/sh/m7hf33yzmbf4tqv/AADOPe8A3qyHCFacu79_kB8ka?dl=0)
+
+### Analysis Approach
+
+
+### Deliverables
+
+The primary deliverables are the code used to execute the analysis described above, and the final code which would derive the insights to above Objectives.
+
+
+
+
+
+
+
+
+
